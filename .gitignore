@@ -4,3 +4,7 @@ HIGGS.csv.gz
 
 # ignore emacs backup files
 *~
+
+*.pyc
+
+.DS_Store
