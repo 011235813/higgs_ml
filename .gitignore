@@ -1,0 +1,6 @@
+*.pdf
+HIGGS.csv
+HIGGS.csv.gz
+
+# ignore emacs backup files
+*~
